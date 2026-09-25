@@ -1,4 +1,4 @@
-# AAAA-ST-Image-Cleaner（Image Cleaner）
+# ST-Image-Cleaner（Image Cleaner）
 
 酒馆（SillyTavern）聊天图片净化插件：一键**去除图片自带信息**（文生图画师串 / EXIF / PNG tEXt / XMP 等全部元数据），支持下载与复制两种输出方式。
 
